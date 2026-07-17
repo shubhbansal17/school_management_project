@@ -1,0 +1,12 @@
+{
+    "students": [
+        {
+            "name": "raghav",
+            "age": 18,
+            "email": "ragom@gmail.com",
+            "rno": 3,
+            "grades": {}
+        }
+    ],
+    "teachers": []
+}
