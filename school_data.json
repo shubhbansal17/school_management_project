@@ -1,9 +1,9 @@
 {
     "students": [
         {
-            "name": "raghav",
+            "name": "rohan",
             "age": 18,
-            "email": "ragom@gmail.com",
+            "email": "rohan@gmail.com",
             "rno": 3,
             "grades": {}
         }
